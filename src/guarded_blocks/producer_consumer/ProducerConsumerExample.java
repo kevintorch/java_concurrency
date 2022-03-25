@@ -1,4 +1,4 @@
-package producer_consumer;
+package guarded_blocks.producer_consumer;
 
 public class ProducerConsumerExample {
     public static void main(String[] args) {

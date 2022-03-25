@@ -1,4 +1,4 @@
-package producer_consumer;
+package guarded_blocks.producer_consumer;
 
 import java.util.Random;
 
